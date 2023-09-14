@@ -26,6 +26,20 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
 ## Progress
-Track your progress by updating this README or using a journal. Feel free to customize this file to suit your preferences.
+#### Question Solved
 
-Happy coding, meditation, and stay disciplined!
+##### Day 1:
+- Day 1: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- Day 2: [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- Day 3: []()
+- Day 4: []()
+- Day 5: []()
+- Day 6: []()
+- Day 7: []()
+- Day 8: []()
+- Day 9: []()
+- Day 10: []()
+- Day 11: []()
+- Day 12: []()
+- Day 13: []()
+- Day 14: []()
