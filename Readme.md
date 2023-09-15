@@ -28,10 +28,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 ## Progress
 #### Question Solved
 
-##### Day 1:
 - Day 1: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - Day 2: [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
-- Day 3: []()
+- Day 3: [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - Day 4: []()
 - Day 5: []()
 - Day 6: []()
