@@ -19,7 +19,7 @@ The 75 Hard Challenge is a commitment to self-improvement and discipline. It con
 LeetCode offers a valuable platform for coding practice and problem-solving, especially for technical interviews. Consistent practice on LeetCode can improve your coding skills and boost your confidence.
 
 ## Repository Structure
-- [Daily Coding](./daily_coding): Store your daily LeetCode solutions here.
+- [Daily Coding](./top_interview_questions): Store your daily LeetCode solutions here.
 - [Progress Photos](./progress_photos): Maintain a visual record of your progress.
 
 ## Stay Committed
@@ -31,14 +31,4 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 1: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - Day 2: [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - Day 3: [27. Remove Element](https://leetcode.com/problems/remove-element/)
-- Day 4: []()
-- Day 5: []()
-- Day 6: []()
-- Day 7: []()
-- Day 8: []()
-- Day 9: []()
-- Day 10: []()
-- Day 11: []()
-- Day 12: []()
-- Day 13: []()
-- Day 14: []()
+- Day 3: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
