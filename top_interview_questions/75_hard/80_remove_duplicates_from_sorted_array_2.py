@@ -20,7 +20,7 @@ class Solution:
                 r += 1
                 counter += 1
 
-            for i in range(min(2, counter)): [1,1,1,1,2,2,2,3,3,3,4,4]
+            for i in range(min(2, counter)):
                 nums[l] = nums[r]
                 l += 1
             r += 1
