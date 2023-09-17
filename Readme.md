@@ -33,3 +33,4 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 3: [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - Day 3: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - Day 4: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- Day 4: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
