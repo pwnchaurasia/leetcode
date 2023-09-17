@@ -16,7 +16,13 @@ class Solution:
                 max = count_book[item]
                 val = item
         return val
-        
+
+
+    def majorityElement2(self, nums: List[int]) -> int:
+        nums.sort()
+        mid = len(nums)//2
+        return nums[mid]
+
 
 
 nums = [2,2,1,1,1,2,2]
