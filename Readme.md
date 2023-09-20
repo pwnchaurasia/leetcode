@@ -38,3 +38,4 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 6: [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - Day 6: [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)
 - Day 7: [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- Day 8: [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
