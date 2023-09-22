@@ -41,3 +41,5 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 8: [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 - Day 9: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 - Day 10: [274. H-Index](https://leetcode.com/problems/h-index/)
+- Day 10: [275. H-Index II](https://leetcode.com/problems/h-index-ii/)
+
