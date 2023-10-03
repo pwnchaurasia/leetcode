@@ -47,4 +47,5 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 12: [134. Gas Station](https://leetcode.com/problems/gas-station/)
 - Day 13: [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - Day 14: [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- Day 15: [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 
