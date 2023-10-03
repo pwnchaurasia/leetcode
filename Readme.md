@@ -49,4 +49,5 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 14: [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - Day 15: [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - Day 15: [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- Day 15: [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 
