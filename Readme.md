@@ -50,4 +50,5 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 15: [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - Day 15: [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - Day 15: [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+- Day 16: [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
