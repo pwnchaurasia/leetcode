@@ -1,19 +1,14 @@
 # 75 Hard Challenge - Daily LeetCode Coding
 
 ## Challenge Overview
-The 75 Hard Challenge is a commitment to self-improvement and discipline. It consists of the following daily tasks:
+:trophy: **75 Hard Challenge** is a commitment to self-improvement and discipline. It consists of the following daily tasks:
 
-1. **Workout**: Engage in a daily physical workout to enhance your fitness.
-
-2. **Reading/Coding**: Solve one or two LeetCode questions from the top 150 interview questions. Sharpen your coding skills and problem-solving abilities.
-
-3. **5 Liters of Water**: Stay hydrated by consuming at least 5 liters of water throughout the day.
-
-4. **Follow a Diet**: Stick to a balanced diet that aligns with your health goals.
-
-5. **Take a Progress Photo**: Capture your progress along the way. Visual documentation can be a motivating factor.
-
-6. **Meditation (At least 5 minutes)**: Dedicate time to meditation to enhance mindfulness and mental clarity.
+- :muscle: **Workout**: Engage in a daily physical workout to enhance your fitness.
+- :books: **Reading/Coding**: Solve one or two LeetCode questions from the top 150 interview questions. Sharpen your coding skills and problem-solving abilities.
+- :droplet: **5 Liters of Water**: Stay hydrated by consuming at least 5 liters of water throughout the day.
+- :apple: **Follow a Diet**: Stick to a balanced diet that aligns with your health goals.
+- :camera: **Take a Progress Photo**: Capture your progress along the way. Visual documentation can be a motivating factor.
+- :lotus_position: **Meditation (At least 5 minutes)**: Dedicate time to meditation to enhance mindfulness and mental clarity.
 
 ## Why LeetCode?
 LeetCode offers a valuable platform for coding practice and problem-solving, especially for technical interviews. Consistent practice on LeetCode can improve your coding skills and boost your confidence.
@@ -25,8 +20,9 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress ![](https://img.shields.io/badge/25%2F150-28a745)
-#### Question Solved
+## Progress  ![Progress](https://img.shields.io/badge/27%2F150-28a745)
+
+### Questions Solved
 
 - Day 1: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - Day 2: [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
@@ -53,4 +49,3 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 16: [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - Day 16: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - Day 17: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-
