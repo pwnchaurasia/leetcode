@@ -13,7 +13,6 @@ class Solution:
                 s_ptr +=1
                 t_ptr +=1
         
-        print(found)
         if s == found:
             return True
         return False
