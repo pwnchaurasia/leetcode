@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/27%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/28%2F150-28a745)
 
 ### Questions Solved
 
@@ -49,3 +49,4 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 16: [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - Day 16: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - Day 17: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- Day 17: [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
