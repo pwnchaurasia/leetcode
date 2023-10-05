@@ -25,7 +25,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress (https://img.shields.io/badge/Progress-25%2F150-28a745)
+## Progress ![](https://img.shields.io/badge/25%2F150-28a745)
 #### Question Solved
 
 - Day 1: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
