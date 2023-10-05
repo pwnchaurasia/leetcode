@@ -52,4 +52,5 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 15: [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 - Day 16: [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - Day 16: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- Day 17: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
