@@ -54,3 +54,4 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 19: [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 - Day 19: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 - Day 19: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- Day 20: [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
