@@ -22,7 +22,29 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 
 ## Progress  ![Progress](https://img.shields.io/badge/31%2F150-28a745)
 
-### Questions Solved
+
+:time: In first attempt I solved questions for 21 days,
+
+### Question Solved (Attempt 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Questions Solved (Attempt 1)
 
 - Day 1: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - Day 2: [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
