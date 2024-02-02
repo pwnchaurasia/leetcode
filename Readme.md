@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/31%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/33%2F150-28a745)
 
 
 *In first attempt I solved questions for 21 days*
@@ -28,6 +28,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 
 ### Question Solved (Attempt 2)
 - Day 1: [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+- Day 2: [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 
 
