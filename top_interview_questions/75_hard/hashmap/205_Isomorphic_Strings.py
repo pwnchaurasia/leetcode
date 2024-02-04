@@ -5,10 +5,8 @@ class Solution:
         mapper_t = {}
         
         for i in range(len(s)):
-            
             c1 = s[i]
             c2 = t[i] 
-            # print(c1 in mapper_s)
             if c1 in mapper_s and mapper_s[c1] != c2:
                 return False
             if c2 in mapper_t and mapper_t[c2] != c1:

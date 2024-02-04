@@ -31,6 +31,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 2: [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - Day 3: [289. Game of Life](https://leetcode.com/problems/game-of-life/)
 - Day 3: [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
+- Day 4: [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 
 
