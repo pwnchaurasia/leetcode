@@ -34,6 +34,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 4: [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - Day 5: [](No question)
 - Day 6: [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+- Day 6: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 
 
