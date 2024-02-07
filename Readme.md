@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/36%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/37%2F150-28a745)
 
 
 *In first attempt I solved questions for 21 days*
@@ -35,6 +35,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 5: [](No question)
 - Day 6: [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 - Day 6: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- Day 7: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 
 
