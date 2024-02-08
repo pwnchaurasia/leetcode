@@ -1,11 +1,13 @@
 from typing import List
-from collections import defaultdict
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashed = defaultdict(int)
-        for num in nums:
-            hashed[num] = target - num
-        print(hashed)
+        for i in range(len(nums)):
+            curr = nums[i]
+            left_over = target - curr
+            # print(curr, left_over, target)
+            if left_over in nums:
+                if i != nums.index(left_over):
+                    return [i, nums.index(left_over)]
 
 
 sol = Solution()
