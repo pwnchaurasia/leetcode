@@ -38,6 +38,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 7: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - Day 7: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - Day 7: [202. Happy Number](https://leetcode.com/problems/happy-number/)
+- Day 8: [219. Contains Duplicate 11](https://leetcode.com/problems/contains-duplicate-ii/)
 
 
 
