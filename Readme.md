@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/39%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/42%2F150-28a745)
 
 
 *In first attempt I solved questions for 21 days*
@@ -39,6 +39,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 7: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - Day 7: [202. Happy Number](https://leetcode.com/problems/happy-number/)
 - Day 8: [219. Contains Duplicate 11](https://leetcode.com/problems/contains-duplicate-ii/)
+- Day 9: [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
 
 
 
