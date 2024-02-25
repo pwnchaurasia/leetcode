@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/42%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/47%2F150-28a745)
 
 
 *In first attempt I solved questions for 21 days*
@@ -44,7 +44,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 10: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 - Day 10: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - Day 10: [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
-- Day 10: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+- Day 10: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+- Day 10: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- Day 10: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
 
 
 
