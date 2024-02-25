@@ -43,6 +43,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 #### After 15 days
 - Day 10: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 - Day 10: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- Day 10: [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+- Day 10: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 
 
 
