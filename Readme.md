@@ -41,7 +41,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 8: [219. Contains Duplicate 11](https://leetcode.com/problems/contains-duplicate-ii/)
 - Day 9: [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 #### After 15 days
-- Day 10: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150)
+- Day 10: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+- Day 10: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 
 
