@@ -47,6 +47,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 10: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 - Day 10: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - Day 10: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+- Day 11: [155. Min Stack](https://leetcode.com/problems/min-stack/)
+- Day 11: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+<!-- - Day 11: [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) -->
 
 
 
