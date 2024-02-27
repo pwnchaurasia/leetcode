@@ -51,6 +51,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 11: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 <!-- - Day 11: [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) -->
 - Day 12: [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- Day 12: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- Day 12: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 
 
