@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/47%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/53%2F150-28a745)
 
 
 *In first attempt I solved questions for 21 days*
@@ -53,6 +53,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 12: [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - Day 12: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - Day 12: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- Day 13: [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 
 
