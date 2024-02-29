@@ -54,6 +54,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 12: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - Day 12: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - Day 13: [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- Day 14: [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 
 
