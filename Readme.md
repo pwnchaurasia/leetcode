@@ -59,6 +59,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 14: [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - Day 14: [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - Day 15: [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+- Day 15: [86. Partition List](https://leetcode.com/problems/partition-list/)
 
 
 
