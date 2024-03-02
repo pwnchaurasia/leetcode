@@ -61,6 +61,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 15: [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 - Day 15: [86. Partition List](https://leetcode.com/problems/partition-list/)
 - Day 15: [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+- Day 16: [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 
 
