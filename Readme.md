@@ -64,6 +64,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 16: [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - Day 16: [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - Day 16: [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- Day 17: [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- Day 18: [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
 
 
