@@ -69,6 +69,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 19: [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 - Day 20: [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 
+- Day 20: [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
+
 
 
 
