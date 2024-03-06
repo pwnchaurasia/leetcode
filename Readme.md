@@ -66,6 +66,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 16: [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - Day 17: [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - Day 18: [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+- Day 19: [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+- Day 20: [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 
 
 
