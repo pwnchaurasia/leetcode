@@ -79,6 +79,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 21: [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - Day 21: [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - Day 21: [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- Day 22: [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 
 
