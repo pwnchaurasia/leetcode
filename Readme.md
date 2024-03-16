@@ -20,7 +20,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 75 Hard Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/53%2F150-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/80%2F150-28a745)
 
 
 *In first attempt I solved questions for 21 days*
