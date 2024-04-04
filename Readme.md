@@ -87,6 +87,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 24: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 - Day 24: [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 - Day 24: [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- Day 24: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 
 
