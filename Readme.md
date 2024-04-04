@@ -70,7 +70,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 20: [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 
 - Day 20: [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
-### After 8 days
+#### After 8 days
 - Day 21: [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - Day 21: [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 - Day 21: [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
@@ -83,6 +83,11 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 22: [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - Day 23: [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 - Day 23: [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+#### After 17 days
+- Day 24: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+- Day 24: [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+- Day 24: [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
 
 
 
