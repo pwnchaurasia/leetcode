@@ -95,6 +95,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 24: [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 - Day 24: [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - Day 24: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+#### After 17 days:
+- Day 25: [77. Combinations](https://leetcode.com/problems/combinations/)
+- Day 25: [46. Permutations](https://leetcode.com/problems/permutations/)
 
 
 
