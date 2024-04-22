@@ -26,6 +26,13 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 *In first attempt I solved questions for 21 days*
 
 
+### Low Level Design
+1. Design a Parking Lot
+2. Google Calendar
+
+
+
+
 ### Question Solved (Attempt 2)
 - Day 1: [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Day 2: [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
