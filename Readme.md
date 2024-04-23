@@ -98,6 +98,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 #### After 17 days:
 - Day 25: [77. Combinations](https://leetcode.com/problems/combinations/)
 - Day 25: [46. Permutations](https://leetcode.com/problems/permutations/)
+- Day 26: [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+- Day 26: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- Day 26: [79. Word Search](https://leetcode.com/problems/word-search/)
 
 
 
