@@ -101,6 +101,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 26: [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 - Day 26: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - Day 26: [79. Word Search](https://leetcode.com/problems/word-search/)
+- Day 27: [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- Day 28: [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+- Day 28: [148. Sort List](https://leetcode.com/problems/sort-list/)
 
 
 
