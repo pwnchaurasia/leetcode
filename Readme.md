@@ -106,6 +106,9 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 28: [148. Sort List](https://leetcode.com/problems/sort-list/)
 - Day 29: [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - Day 29: [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- Day 29: [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- Day 29: [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- Day 29: [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 
 
 
