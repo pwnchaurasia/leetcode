@@ -104,6 +104,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 27: [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - Day 28: [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
 - Day 28: [148. Sort List](https://leetcode.com/problems/sort-list/)
+- Day 29: [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- Day 29: [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 
 
 
