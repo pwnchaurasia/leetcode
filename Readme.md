@@ -108,7 +108,10 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 29: [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - Day 29: [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - Day 29: [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- Day 29: [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- Day 29: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- Day 30: [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- Day 30: [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- Day 31: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 
 
