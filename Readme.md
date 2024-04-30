@@ -120,6 +120,11 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 32: [136. Single Number](https://leetcode.com/problems/single-number/)
 - Day 32: [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
 - Day 32: [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+- Day 32: [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- Day 32: [66. Plus One](https://leetcode.com/problems/plus-one/)
+- Day 32: [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+- Day 32: [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- Day 32: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 
 
