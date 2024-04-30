@@ -114,6 +114,10 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 31: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - Day 31: [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - Day 31: [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- Day 32: [67. Add Binary](https://leetcode.com/problems/add-binary/)
+- Day 32: [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- Day 32: [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- Day 32: [136. Single Number](https://leetcode.com/problems/single-number/)
 
 
 
