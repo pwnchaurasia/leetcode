@@ -118,6 +118,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 32: [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - Day 32: [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - Day 32: [136. Single Number](https://leetcode.com/problems/single-number/)
+- Day 32: [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
+- Day 32: [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 
 
 
