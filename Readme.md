@@ -96,35 +96,48 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 24: [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - Day 24: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 #### After 17 days:
+##### Backtracking
+- Day 25: [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - Day 25: [77. Combinations](https://leetcode.com/problems/combinations/)
 - Day 25: [46. Permutations](https://leetcode.com/problems/permutations/)
 - Day 26: [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 - Day 26: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - Day 26: [79. Word Search](https://leetcode.com/problems/word-search/)
+##### Divide & Conquer
 - Day 27: [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - Day 28: [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
 - Day 28: [148. Sort List](https://leetcode.com/problems/sort-list/)
+##### Kadane's Algorithm
 - Day 29: [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - Day 29: [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+##### Binary Search
 - Day 29: [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - Day 29: [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - Day 29: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - Day 30: [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - Day 30: [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - Day 31: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+##### Heap
 - Day 31: [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- Day 31: [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - Day 31: [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+##### Bit Manipulation
 - Day 32: [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - Day 32: [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - Day 32: [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - Day 32: [136. Single Number](https://leetcode.com/problems/single-number/)
 - Day 32: [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
 - Day 32: [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+##### MATH
 - Day 32: [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - Day 32: [66. Plus One](https://leetcode.com/problems/plus-one/)
 - Day 32: [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 - Day 32: [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - Day 32: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+##### 1D DP
+- Day 33: [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- Day 33: [198. House Robber](https://leetcode.com/problems/house-robber/)
+- Day 33: [139. Word Break](https://leetcode.com/problems/word-break/)
 
 
 
