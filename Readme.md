@@ -190,7 +190,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 33: [139. Word Break](https://leetcode.com/problems/word-break/)
 - Day 34: [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - Day 34: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-
+##### Multidimensional DP
+- Day 34: [120. Triangle](https://leetcode.com/problems/triangle/)
 
 
 
