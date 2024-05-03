@@ -120,7 +120,6 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 18: [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - Day 19: [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 - Day 20: [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
-
 - Day 20: [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
 #### After 8 days
 - Day 21: [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
@@ -189,6 +188,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 33: [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - Day 33: [198. House Robber](https://leetcode.com/problems/house-robber/)
 - Day 33: [139. Word Break](https://leetcode.com/problems/word-break/)
+- Day 34: [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
 
 
