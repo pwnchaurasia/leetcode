@@ -192,6 +192,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 34: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 ##### Multidimensional DP
 - Day 34: [120. Triangle](https://leetcode.com/problems/triangle/)
+- Day 35: [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 
 
