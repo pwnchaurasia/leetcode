@@ -193,6 +193,8 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 ##### Multidimensional DP
 - Day 34: [120. Triangle](https://leetcode.com/problems/triangle/)
 - Day 35: [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+- Day 36: [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+- Day 37: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
 
