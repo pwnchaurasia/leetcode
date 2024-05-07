@@ -197,5 +197,7 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 37: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
+### Level: HARD Questions
+- Day 38: [135. Candy](https://leetcode.com/problems/candy/)
 
 
