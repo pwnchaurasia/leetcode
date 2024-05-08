@@ -199,5 +199,6 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 
 ### Level: HARD Questions
 - Day 38: [135. Candy](https://leetcode.com/problems/candy/)
+- Day 39: [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 
