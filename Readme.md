@@ -201,5 +201,20 @@ Remember, the 75 Hard Challenge is about personal growth and discipline. Stay co
 - Day 38: [135. Candy](https://leetcode.com/problems/candy/)
 - Day 39: [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - Day 39: [68. Text Justification](https://leetcode.com/problems/text-justification/)
+- Day 40: [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+- Day 40: [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- Day 40: [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- Day 40: [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- Day 40: [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+- Day 40: [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
+- Day 40: [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+- Day 40: [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- Day 40: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- Day 40: [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+- Day 40: [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+- Day 40: [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/max-points-on-a-line/)
+- Day 40: [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/max-points-on-a-line/)
+
+
 
 
