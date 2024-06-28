@@ -19,4 +19,5 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 
 ### Questions Solved
 ##### Array / String
-- Day 1: [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-sorted-array/)
+- Day 1: [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+- Day 1: [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
