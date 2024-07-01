@@ -25,3 +25,6 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 2: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 - Day 3: [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - Day 3: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- Day 4: [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+- Day 4: [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+- Day 4: [443. String Compression](https://leetcode.com/problems/string-compression/)
