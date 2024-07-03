@@ -28,3 +28,7 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 4: [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - Day 4: [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - Day 4: [443. String Compression](https://leetcode.com/problems/string-compression/)
+- Day 5: [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- Day 5: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- Day 6: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- Day 6: [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
