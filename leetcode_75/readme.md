@@ -32,3 +32,4 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 5: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - Day 6: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - Day 6: [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+- Day 6: [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
