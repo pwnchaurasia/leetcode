@@ -15,7 +15,7 @@ LeetCode offers a valuable platform for coding practice and problem-solving, esp
 ## Stay Committed
 Remember, the 30 Day Coding Challenge is about personal growth and discipline. Stay committed to your goals, and track your journey. You've got this!
 
-## Progress  ![Progress](https://img.shields.io/badge/2%2F75-28a745)
+## Progress  ![Progress](https://img.shields.io/badge/17%2F75-28a745)
 
 ### Questions Solved
 ##### Array / String
@@ -33,3 +33,6 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 6: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - Day 6: [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - Day 6: [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- Day 7: [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+- Day 7: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- Day 7: [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
