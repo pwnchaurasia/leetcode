@@ -39,3 +39,5 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 7: [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - Day 7: [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - Day 7: [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+- Day 8: [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
+- Day 8: [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
