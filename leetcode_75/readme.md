@@ -41,3 +41,5 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 7: [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - Day 8: [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
 - Day 8: [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+- Day 9: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+- Day 10: [394. Decode String](https://leetcode.com/problems/decode-string/)
