@@ -43,3 +43,4 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 8: [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - Day 9: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - Day 10: [394. Decode String](https://leetcode.com/problems/decode-string/)
+- Day 10: [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
