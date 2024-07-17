@@ -1,23 +1,31 @@
+import collections
+from collections import deque
+
+
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        import collections
-        lookup = collections.defaultdict(dict)
-        for (x,y), value in zip(equations, values):
-            lookup[x][y] = value
-            lookup[y][x] = 1.0/value
-        
-        def dfs(x, y, visit):
-            if x not in lookup and y not in lookup: return -1
-            if y in lookup[x]: return lookup[x][y]
+        adj = collections.defaultdict(list)
+        for i, eq in enumerate(equations):
+            a, b = eq
+            adj[a].append(b, values[i])
+            adj[b].append(a, 1/ values[i])
 
-            for i in lookup[x]:
-                if i in visit: continue
-                visit.add(i)
-                temp = dfs(i, y, visit=visit)
-                if temp == -1: continue
-                else: return lookup[x][i] * temp
+        def bfs(src, target):
+            if src not in adj or target not in adj:
+                return -1
+            q, visit = deque(), set()
+            q.append([src, 1])
+            visit.add(src)
+            while q:
+                n, w = q.popleft()
+                if n == target:
+                    return w
+                for nei, weight in adj[n]:
+                    if nei not in visit:
+                        q.append([nei, w * weight])
+                        visit.add(nei)
+
             return -1
+        return [bfs(q[0], q[1]) for q in queries]
 
-        res = []
-        for x, y in queries:
-            res.append(dfs(x, y, set()))
+

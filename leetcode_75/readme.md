@@ -74,3 +74,6 @@ Remember, the 30 Day Coding Challenge is about personal growth and discipline. S
 - Day 14: [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 ##### Graphs - DFS
 - Day 14: [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- Day 15: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+- Day 15: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+- Day 16: [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
