@@ -2,7 +2,20 @@ from datetime import datetime
 import random
 
 from lld.hotel_booking_system.enums import PaymentMethod
-from lld.hotel_booking_system.payment import UPIPayment
+from lld.hotel_booking_system.payment import UPIPayment, CardPayment
+
+
+class PaymentFactory:
+    def get_payment_method(self, payment_method, user, amount):
+        if payment_method == PaymentMethod.UPI.value:
+            return UPIPayment(user, amount)
+        elif payment_method == PaymentMethod.CARD.value:
+            return CardPayment(user, amount)
+        else:
+            return ValueError("Not allowed payment method")
+
+
+
 
 
 class PaymentService:
@@ -10,8 +23,9 @@ class PaymentService:
 
     @classmethod
     def payment(cls, user, hotel, amount, payment_method):
-        if payment_method == PaymentMethod.UPI:
-            UPIPayment(user, amount).charge()
+        payment_instance = PaymentFactory.get_payment_method(payment_method, user, amount)
+        try:
+            payment_instance.charge()
             print("payment done successfully")
             data = {
                 'user': user,
@@ -24,11 +38,16 @@ class PaymentService:
             }
             cls.payment_records.append(data)
             return True, data['payment_id']
-        return False, None
+        except Exception as e:
+            print(f"Error: {str(e)}")
+            return False, None
 
     @classmethod
     def refund(cls, payment_id):
         payment = filter(lambda record: record['payment_id'] == payment_id, cls.payment_records)
-        UPIPayment(payment[0]['user'], payment[0]['amount']).refund()
-        print("Amount refunded successfully")
-        return True
+        if payment:
+            payment_instance = PaymentFactory.get_payment_method(payment['payment_method'], payment['user'], payment['amount'])
+            payment_instance.refund()
+            print("Amount refunded successfully")
+            return True
+        return False
