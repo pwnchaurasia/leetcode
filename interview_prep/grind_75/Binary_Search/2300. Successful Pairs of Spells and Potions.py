@@ -1,10 +1,11 @@
 from bisect import bisect_left
-
+from typing import List
 
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
         # Sort the potions to enable binary search
         potions.sort()
+        len_potions = len(potions)
 
         # Initialize the result list
         result = []
@@ -18,6 +19,14 @@ class Solution:
             idx = bisect_left(potions, required_strength)
 
             # Count the number of successful pairs by subtracting the index from the total potions
-            result.append(len(potions) - idx)
+            result.append(len_potions - idx)
 
         return result
+
+
+if __name__ == '__main__':
+    sol = Solution()
+    spells = [5, 1, 3]
+    potions = [1, 2, 3, 4, 5]
+    success = 7
+    print(sol.successfulPairs(spells=spells, potions=potions, success=success))
