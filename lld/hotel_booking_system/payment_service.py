@@ -6,7 +6,8 @@ from lld.hotel_booking_system.payment import UPIPayment, CardPayment
 
 
 class PaymentFactory:
-    def get_payment_method(self, payment_method, user, amount):
+    @staticmethod
+    def get_payment_method(payment_method, user, amount):
         if payment_method == PaymentMethod.UPI.value:
             return UPIPayment(user, amount)
         elif payment_method == PaymentMethod.CARD.value:
