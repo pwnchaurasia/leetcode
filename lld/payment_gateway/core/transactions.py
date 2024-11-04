@@ -1,5 +1,3 @@
-from typing import
-
 from lld.payment_gateway.core.enums import PaymentMethod
 from lld.payment_gateway.core.users import User
 
@@ -12,5 +10,6 @@ class Transaction:
         self.amount = float
 
     def validate_balance(self, user: User):
+        pass
     def send_money(self):
         pass

@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
-from enums.account_status import AccountStatus
+from parking_lot.enums.account_status import AccountStatus
+
 
 
 class Account:
