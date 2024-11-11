@@ -1,14 +1,22 @@
+<<<<<<< Updated upstream
 from lld.splitwise.expense import Expense
 
 
 class Group:
     groups = []
 
+=======
+from lld.splitwise.expenses import Expense
+
+
+class Group:
+>>>>>>> Stashed changes
     def __init__(self, name, owner):
         self.name = name
         self.owner = owner
         self.members = [owner]
         self.expenses = []
+<<<<<<< Updated upstream
         self.balances = {owner: 0}  # Tracks balance per user in the group
         Group.groups.append(self)
         # self.add_member(owner)
@@ -44,3 +52,19 @@ class Group:
 
     def __repr__(self):
         return f"Group({self.name}, Owner: {self.owner.name})"
+=======
+
+    def add_member(self, user):
+        """Adds a new member to the group."""
+        if user not in self.members:
+            self.members.append(user)
+
+    def add_expense(self, amount, description, payer, participants):
+        """Adds an expense to the group and updates balances."""
+        expense = Expense(amount, description, payer, participants)
+        self.expenses.append(expense)
+        expense.split_expense()
+
+    def __repr__(self):
+        return f"Group({self.name}, Owner: {self.owner.name})"
+>>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 # Sample Usage
+<<<<<<< Updated upstream
 from lld.splitwise.groups import Group
 from lld.splitwise.users import User
 
@@ -59,3 +60,25 @@ if __name__ == "__main__":
     sheldon.total_balance()
 
 
+=======
+# Create Users
+from lld.splitwise.groups import Group
+from lld.splitwise.users import User
+
+alice = User("alice@example.com", "Alice")
+bob = User("bob@example.com", "Bob")
+carol = User("carol@example.com", "Carol")
+
+# Create a Group with Alice as the owner
+trip_group = Group("Trip to Vegas", owner=alice)
+trip_group.add_member(bob)
+trip_group.add_member(carol)
+
+# Add an expense and split it
+trip_group.add_expense(amount=150, description="Hotel Bill", payer=alice, participants=[alice, bob, carol])
+
+# Check balances
+print(f"Alice Balance: {alice.balance}")
+print(f"Bob Balance: {bob.balance}")
+print(f"Carol Balance: {carol.balance}")
+>>>>>>> Stashed changes

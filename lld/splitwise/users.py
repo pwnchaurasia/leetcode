@@ -1,4 +1,5 @@
 class User:
+<<<<<<< Updated upstream
     users = []
 
     def __init__(self, email, name):
@@ -22,3 +23,12 @@ class User:
 
     def __repr__(self):
         return f"User({self.name}, {self.email})"
+=======
+    def __init__(self, email, name):
+        self.email = email
+        self.name = name
+        self.balance = 0  # Net balance for all expenses
+
+    def __repr__(self):
+        return f"User({self.name}, {self.email})"
+>>>>>>> Stashed changes
