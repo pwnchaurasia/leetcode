@@ -19,3 +19,16 @@ Design a File Storage System (Like Google Drive) – Manage file upload, sharing
 Design a Social Media Feed (Like Twitter) – Implement user posts, followers, and feed generation.
 Design a Messaging System (Like WhatsApp) – Implement message sending, groups, and real-time updates.
 These questions test your ability to think in terms of OOP principles, design patterns, scalability, and system constraints. Would you like to focus on any one of them?
+
+
+
+
+
+3. Bank related Low Level Design
+- [] Account Management System (Savings, Current, Fixed Deposit, Loan Accounts)
+- [] Transaction System (Deposits, Withdrawals, Transfers)
+- [] Ledger & Reconciliation (Maintaining Balances, Double Entry Accounting)
+- [] Loan & Credit Scoring System
+- [] ATM & Card Payment Processing
+- [] Fraud Detection System
+- [] Notification System (Email, SMS Alerts for Transactions)
