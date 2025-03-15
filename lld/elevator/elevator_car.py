@@ -31,6 +31,7 @@ class ElevatorCar:
                     print(f"Elevator {self.id} is moving from floor {self.current_floor} to floor {next_floor}")
                     time.sleep(1)  # Simulate time taken to move between floors
                     self.current_floor = next_floor
+                    self.display.update(self.current_floor, self.direction)
                     print(f"Elevator {self.id} has reached floor {self.current_floor}")
                     if not self.destination_floors:
                         self.state = ElevatorState.IDLE
