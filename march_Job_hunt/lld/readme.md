@@ -25,8 +25,8 @@ These questions test your ability to think in terms of OOP principles, design pa
 
 
 3. Bank related Low Level Design
-- [] Account Management System (Savings, Current, Fixed Deposit, Loan Accounts)
-- [] Transaction System (Deposits, Withdrawals, Transfers)
+- [X] Account Management System (Savings, Current, Fixed Deposit, Loan Accounts)
+- [X] Transaction System (Deposits, Withdrawals, Transfers)
 - [] Ledger & Reconciliation (Maintaining Balances, Double Entry Accounting)
 - [] Loan & Credit Scoring System
 - [] ATM & Card Payment Processing
