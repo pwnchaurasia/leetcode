@@ -18,7 +18,7 @@ class Solution:
 
             if dir == 'l':
                 dfs(node.right, "r", length + 1)
-                dfs(node.left, "l", 1)  # restart if go same direction
+                dfs(node.left, "l", 1)
             else:
                 dfs(node.left, 'l', length+1)
                 dfs(node.right, "r", 1)
